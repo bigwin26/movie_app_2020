@@ -28,19 +28,19 @@
     0 18px 36px -18px rgba(0, 0, 0, 0.3), 0 -12px 36px -8px rgba(0, 0, 0, 0.025);
 }
 
-.movie .movie_title,
-.movie .movie_year {
+.movie .movie__title,
+.movie .movie__year {
   margin: 0;
   font-weight: 300;
 }
 
-.movie .movie_title {
+.movie .movie__title {
   margin-bottom: 5px;
   font-size: 24px;
   color: #2c2c2c;
 }
 
-.movie .movie_genres {
+.movie .movie__genres {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -49,7 +49,7 @@
 }
 
 .movie__genres li,
-.movie .movie_year {
+.movie .movie__year {
   margin-right: 10px;
   font-size: 14px;
 }
